@@ -24,6 +24,13 @@ GNU C++ compiler g++.
 
 OpenFOAM.
 
+Preparing the Case folder
+-------------------------
+
+Extract case.tar.gz .
+
+Move the .cpp source file to the extracted case folder.
+
 Compiling
 ---------
 
