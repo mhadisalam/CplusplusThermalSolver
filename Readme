@@ -1,0 +1,51 @@
+Readme
+------
+
+Two independent volume thermal solver in C++.
+
+Uses OpenFOAM built mesh and visualization. Standalone thermal solution.
+
+License
+-------
+
+GNU General Public License.
+
+Author
+------
+
+Mohamad Hadi Salam.
+
+Requirements
+------------
+
+Tested on Ubuntu Linux 18.04 LTS.
+
+GNU C++ compiler g++.
+
+OpenFOAM.
+
+Compiling
+---------
+
+Terminal in folder: g++ TwoThermal.cpp -o TwoThermal.bin -pthread -std=c++11
+
+Running
+-------
+
+Terminal in folder: ./TwoThermal.bin
+
+Visualizing
+-----------
+
+Terminal in folder: paraFoam
+
+In ParaView:
+
+Select / check mark "Volume Fields".
+
+Click Apply.
+
+Select T1/T2 instead of "Solid Color".
+
+Click > "Play".
+
