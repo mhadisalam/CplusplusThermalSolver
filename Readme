@@ -27,7 +27,7 @@ OpenFOAM.
 Preparing the Case folder
 -------------------------
 
-Extract case.tar.gz .
+Extract case.tar.xz .
 
 Move the .cpp source file to the extracted case folder.
 
