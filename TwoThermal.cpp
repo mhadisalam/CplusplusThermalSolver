@@ -1,6 +1,6 @@
 //LLPD Computational Two-Fluid Plasma Dynamics Thesis
 //Reading OpenFOAM polyMesh + Two-Volume Thermal Conduction Solver
-//M. Hadi Salam, American University of Beirut, Mechanical Engineering Department
+//Mohamad Hadi Salam, American University of Beirut, Mechanical Engineering Department
 //Sunday, February 17th, 2019
 
 //Compiling: g++ TwoThermal.cpp -o TwoThermal.bin -pthread -std=c++11
