@@ -27,17 +27,17 @@ OpenFOAM.
 Compiling
 ---------
 
-Terminal in folder: g++ TwoThermal.cpp -o TwoThermal.bin -pthread -std=c++11
+Terminal/command line in case folder: g++ TwoThermal.cpp -o TwoThermal.bin -pthread -std=c++11
 
 Running
 -------
 
-Terminal in folder: ./TwoThermal.bin
+Terminal/command line in case folder: ./TwoThermal.bin
 
 Visualizing
 -----------
 
-Terminal in folder: paraFoam
+Terminal/command line in case folder: paraFoam
 
 In ParaView:
 
