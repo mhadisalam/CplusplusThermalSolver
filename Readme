@@ -41,7 +41,7 @@ Terminal in folder: paraFoam
 
 In ParaView:
 
-Select / check mark "Volume Fields".
+Select / check mark "Volume Fields". Under "Volume Fields", check/tick T1 and T2.
 
 Click Apply.
 
