@@ -1,7 +1,7 @@
 Readme
 ------
 
-Two independent volume thermal solver in C++.
+Two independent volumes thermal solver in C++.
 
 Uses OpenFOAM built mesh and visualization. Standalone thermal solution.
 
