@@ -3,7 +3,7 @@ Readme
 
 Two independent volumes thermal solver in C++.
 
-Uses OpenFOAM built mesh and visualization. Standalone thermal solution.
+Uses OpenFOAM blockMesh built mesh and paraFoam ParaView visualization. Standalone thermal solution.
 
 License
 -------
